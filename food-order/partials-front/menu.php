@@ -7,7 +7,7 @@
     <!-- Important to make website responsive -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Restaurant Website</title>
-    <link rel="icon" type="image/x-icon" href="http://localhost:8080/olive-kitchen/logo_olive.jpg">
+    <link rel="icon" type="image/x-icon" href="../../logo_olive.jpg">
 
     <!-- Link our CSS file -->
     <link rel="stylesheet" href="css/style.css">
