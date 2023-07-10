@@ -4,7 +4,7 @@
 <head>
   
     <title>Register</title>
-    <link rel="icon" type="image/x-icon" href="http://localhost:8080/olive-kitchen/logo_olive.jpg">
+    <link rel="icon" type="image/x-icon" href="../logo_olive.jpg">
  
     <link rel="preconnect" href="https://fonts.gstatic.com">
 
