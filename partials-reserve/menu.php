@@ -1,4 +1,4 @@
-<?php include('/Users/91944/Desktop/apache/htdocs/olive-kitchen/food-order/config/constants.php'); ?>
+<?php include('food-order/config/constants.php'); ?>
 
 <!DOCTYPE html>
 <html>
