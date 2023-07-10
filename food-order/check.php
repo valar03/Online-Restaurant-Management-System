@@ -9,7 +9,7 @@
     <title>Restaurant Website</title>
 
     <!-- Link our CSS file -->
-    <link rel="stylesheet" href="http://localhost:8080/olive-kitchen/food-order/css/style.css">
+    <link rel="stylesheet" href="css/style.css">
     <style>
         .button{
     color: #fff;
