@@ -64,9 +64,9 @@ $uprice='--';
     <title>Restaurant Website</title>
     <link rel="icon"  href="http://localhost:8080/olive-kitchen/logo_olive.jpg">
     <!-- Link our CSS file -->
-    <link rel="stylesheet" href="http://localhost:8080/olive-kitchen/food-order/css/style.css">
-    <link rel="stylesheet" href="http://localhost:8080/olive-kitchen/food-order/css/home_style.css">
-    <link rel="stylesheet" href="http://localhost:8080/olive-kitchen/food-order/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/home_style.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
 
     <style>
         .button{
