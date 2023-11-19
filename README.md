@@ -28,7 +28,7 @@ Table Reservation:
 
 Admin:
 ![image](https://github.com/valar03/Online-Restaurant-Management-System/blob/main/ss/7.png)
-![image](https://github.com/valar03/Online-Restaurant-Management-System/blob/main/ss/8.png)
+![image](https://github.com/valar03/Online-Restaurant-Management-System/blob/main/ss/9.png)
 
 
 
