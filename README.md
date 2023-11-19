@@ -12,23 +12,23 @@ Admin Username:12345 Password:12345
 Sample Screenshots:
 
 Homepage:
-![image](https://github.com/valar03/Online-Restaurant-Management-System/ss/1.png)
+![image](https://github.com/valar03/Online-Restaurant-Management-System/blob/main/ss/1.png)
 
 About Us:
-![image](https://github.com/valar03/Online-Restaurant-Management-System/ss/2.png)
+![image](https://github.com/valar03/Online-Restaurant-Management-System/blob/main/ss/2.png)
 
 Food page:
-![image](https://github.com/valar03/Online-Restaurant-Management-System/ss/3.png)
+![image](https://github.com/valar03/Online-Restaurant-Management-System/blob/main/ss/3.png)
 
-![image](https://github.com/valar03/Online-Restaurant-Management-System/ss/4.png)
+![image](https://github.com/valar03/Online-Restaurant-Management-System/blob/main/ss/4.png)
 
 Table Reservation:
-![image](https://github.com/valar03/Online-Restaurant-Management-System/ss/5.png)
-![image](https://github.com/valar03/Online-Restaurant-Management-System/ss/6.png)
+![image](https://github.com/valar03/Online-Restaurant-Management-System/blob/main/ss/5.png)
+![image](https://github.com/valar03/Online-Restaurant-Management-System/blob/main/ss/6.png)
 
 Admin:
-![image](https://github.com/valar03/Online-Restaurant-Management-System/ss/8.png)
-![image](https://github.com/valar03/Online-Restaurant-Management-System/ss/9.png)
+![image](https://github.com/valar03/Online-Restaurant-Management-System/blob/main/ss/7.png)
+![image](https://github.com/valar03/Online-Restaurant-Management-System/blob/main/ss/8.png)
 
 
 
